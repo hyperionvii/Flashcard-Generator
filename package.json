@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "create flashcards",
+  "main": "basicflashcard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperionvii/Flashcard-Generator.git"
+  },
+  "author": "Sofia Wicker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperionvii/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/hyperionvii/Flashcard-Generator#readme",
+  "dependencies": {
+    "exports": "0.0.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^3.2.1",
+    "require": "^2.4.20"
+  }
+}

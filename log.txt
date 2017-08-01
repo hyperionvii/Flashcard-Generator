@@ -1,0 +1,1 @@
+{"front":"test","back":"test","type":"basic"};{"front":"testing","back":"testing","type":"basic"};{"text":"test testing","cloze":"testing","clozeDeleted":"test _____","type":"cloze"};{"front":"How much do you dislike constructors right now?","back":"too much","type":"basic"};{"text":"random full text","cloze":"random","clozeDeleted":"_____ full text","type":"cloze"};
